@@ -13,8 +13,9 @@ Welcome to the Llama-2 Chatbot repository! This project demonstrates how to crea
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Llama2-AI-ChatBot.git
+   cd Llama2-AI-ChatBot
+
    ```
 
 2. Run the setup script to install dependencies and download model files:
